@@ -1470,6 +1470,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [taggart](https://github.com/ijcd/taggart) - HTML as code in Elixir.
 * [templates](https://github.com/sugar-framework/templates) - Helper library for adding templating to web applications.
 * [temple](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
+* [sneeze](https://github.com/JuneKelly/sneeze) - Render Elixir data structures to HTML. Inspired by [Hiccup](https://github.com/weavejester/hiccup).
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
